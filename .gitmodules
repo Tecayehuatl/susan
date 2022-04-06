@@ -6,4 +6,9 @@
 	url = https://github.com/Tecayehuatl/susan-client.git
 
 # Fetch data reference: https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github
+# https://git-scm.com/book/en/v2/Git-Tools-Submodules
+# You must run two commands: git submodule init to initialize your local configuration file,
+# and git submodule update to fetch  all the data from that project and check out the 
+# appropriate commit listed in your superproject
+
 # git submodule update --init
