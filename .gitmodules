@@ -1,0 +1,9 @@
+[submodule "susan-server"]
+	path = susan-server
+	url = https://github.com/Tecayehuatl/susan-server.git
+[submodule "susan-client"]
+	path = susan-client
+	url = https://github.com/Tecayehuatl/susan-client.git
+
+# Fetch data reference: https://stackoverflow.com/questions/16773642/pull-git-submodules-after-cloning-project-from-github
+# git submodule update --init
